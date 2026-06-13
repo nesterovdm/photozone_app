@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1140573d.css",
+    "main.js": "/static/js/main.7f2f3408.js",
+    "static/media/load.gif": "/static/media/load.1b9edce315891232d948.gif",
+    "static/media/partner.png": "/static/media/partner.4c1835cdc1343a2994bd.png",
+    "static/media/access.jpg": "/static/media/access.464b40f1476b62aa6c7b.jpg",
+    "static/media/warn.jpg": "/static/media/warn.6102ccf2da31e6546cbc.jpg",
+    "static/media/modal.jpg": "/static/media/modal.760d0f44b9812ff51e96.jpg",
+    "static/media/portrait.png": "/static/media/portrait.290406dfab25541eaef7.png",
+    "static/media/ob.jpg": "/static/media/ob.514712a86875dfd87cdb.jpg",
+    "static/media/groups.jpg": "/static/media/groups.9249c637e43dfeb46513.jpg",
+    "static/media/access2.png": "/static/media/access2.538bba7fb15de3f13287.png",
+    "static/media/groups2.png": "/static/media/groups2.8dcfb620fab986711e16.png",
+    "static/media/smile.png": "/static/media/smile.d39927401a566d490eb1.png",
+    "static/media/podarok.png": "/static/media/podarok.65365a2f3a81eabbbd14.png",
+    "index.html": "/index.html",
+    "main.1140573d.css.map": "/static/css/main.1140573d.css.map",
+    "main.7f2f3408.js.map": "/static/js/main.7f2f3408.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1140573d.css",
+    "static/js/main.7f2f3408.js"
+  ]
+}
